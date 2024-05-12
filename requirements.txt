@@ -1,0 +1,4 @@
+openpifpaf
+matplotlib
+opencv-python
+ffmpeg-python
